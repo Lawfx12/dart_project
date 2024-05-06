@@ -12,7 +12,7 @@ else if (num % 3 == 0){
 print("$num. Fizz");
 }
 else if (num%5==0){
-print("$num. Buzz!");
+print("$num. !");
 }
 else{
   print("$num.");
